@@ -1,11 +1,11 @@
 ## Alt-ijkl keymaps
 
-This project contains keymaps with `alt-ijkl` keyboard layout.
-This layout was originally inspired by Vim and gaming keyboard layouts but it has heavily changed over years.
-One of the main goals is to navigate and modify text without moving hands over keyboard. 
+This project contains config files with `alt-ijkl` keyboard shortcuts.
+This keymap was inspired by Vim and gaming keyboard layouts.
+One of the main goals is to navigate and modify text without moving hands over keyboard too much. 
 
 
-### Differences compared to default layout
+### Differences compared to typical OS keymaps
 Arrows are moved to `ijkl` and left/right arrows jump to next/previous word:
  - `alt-i` - line up
  - `alt-j` - move to previous word
