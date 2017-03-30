@@ -2,7 +2,7 @@
 
 This project contains config files with `alt-ijkl` keyboard shortcuts.
 This keymap was inspired by Vim and gaming keyboard layouts.
-One of the main goals is to navigate and modify text without moving hands over keyboard too much. 
+One of the main goals is to navigate and modify text without moving hands over keyboard too much.
 
 
 ### Differences compared to typical OS keymaps
@@ -34,3 +34,7 @@ Tabs:
  - `alt-q` - close tab
  - `cmd-shift-[` - previous tab
  - `cmd-shift-]` - next tab
+
+### Installation in IJ
+Copy file from `intellij` folder into `~/Library/Preferences/IntelliJIdea2017.1/keymaps/`.
+Restart IntelliJ, switch to new keyboard layout.
