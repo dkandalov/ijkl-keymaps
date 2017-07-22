@@ -1,18 +1,9 @@
 <keymap version="1" name="ijkl (Mac OS X)" parent="Mac OS X">
-  <action id="">
-    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
-  </action>
   <action id="$Delete">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="meta back_space" />
     <keyboard-shortcut first-keystroke="alt semicolon" />
-  </action>
-  <action id="ActionTrackerII-Popup">
-    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
-  </action>
-  <action id="ActionTrackerIIPopup">
-    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
   <action id="ActivateChangesToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
@@ -34,10 +25,6 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
-  <action id="ActivityTracker-Popup">
-    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
-  </action>
-  <action id="AutoIndentLines" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta alt left" />
     <keyboard-shortcut first-keystroke="alt b" />
@@ -62,33 +49,15 @@
     <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="alt quote" />
   </action>
-  <action id="CodeHistoryMiningPopup">
-    <keyboard-shortcut first-keystroke="shift alt h" />
-  </action>
-  <action id="CodeHistoryMiningRunQuery">
-    <keyboard-shortcut first-keystroke="shift alt e" />
-  </action>
-  <action id="CodeHistoryMiningRunScript">
-    <keyboard-shortcut first-keystroke="shift alt e" />
-  </action>
   <action id="CodeInspection.OnEditor" />
-  <action id="CodeMeltdown">
-    <keyboard-shortcut first-keystroke="shift ctrl m" />
-  </action>
   <action id="CommaShortcut">
     <keyboard-shortcut first-keystroke="shift alt comma" />
   </action>
   <action id="CompareClipboardWithSelection">
     <keyboard-shortcut first-keystroke="shift alt c" />
   </action>
-  <action id="CompileHaskell">
-    <keyboard-shortcut first-keystroke="ctrl alt h" />
-  </action>
   <action id="Console.TableResult.NavigateAction">
     <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="ConsoleView.ClearAll">
-    <mouse-shortcut keystroke="shift alt button1" />
   </action>
   <action id="ContextHelp" />
   <action id="ContextHistory">
@@ -106,8 +75,6 @@
   <action id="DomElementsTreeView.GotoDomElementDeclarationAction">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
-  <action id="DumpLookupElementWeights" />
-  <action id="DuplicatesForm.SendToRight" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
     <keyboard-shortcut first-keystroke="alt h" />
@@ -230,11 +197,6 @@
     <keyboard-shortcut first-keystroke="shift up" />
     <keyboard-shortcut first-keystroke="shift alt i" />
   </action>
-  <action id="EmmetNextEditPoint" />
-  <action id="EmmetPreviousEditPoint" />
-  <action id="EvalSelectionAsGroovy">
-    <keyboard-shortcut first-keystroke="shift alt e" />
-  </action>
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="alt f8" />
     <keyboard-shortcut first-keystroke="shift alt e" />
@@ -246,9 +208,6 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="shift meta o" />
-  </action>
-  <action id="FindAllJavaClassDependencies">
-    <keyboard-shortcut first-keystroke="shift alt d" />
   </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
@@ -262,20 +221,10 @@
     <keyboard-shortcut first-keystroke="meta alt right" />
     <keyboard-shortcut first-keystroke="shift alt b" />
   </action>
-  <action id="FridayMario.StartStop" />
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="Git.Push" />
-  <action id="GoogleSearch">
-    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
-  </action>
-  <action id="GoogleSearchAction">
-    <keyboard-shortcut first-keystroke="shift alt g" />
-  </action>
-  <action id="GoogleWord">
-    <keyboard-shortcut first-keystroke="ctrl alt g" />
-  </action>
   <action id="GotoBookmark1" />
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="meta alt button1" />
@@ -285,23 +234,10 @@
   <action id="Gradle.ExecuteTask">
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
-  <action id="Haskell.ShowType">
-    <keyboard-shortcut first-keystroke="shift ctrl p" />
-  </action>
-  <action id="HelloPopupAction">
-    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
-  </action>
-  <action id="HelloTextEditorAction">
-    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
-  </action>
-  <action id="HelloWordAction">
-    <keyboard-shortcut first-keystroke="shift ctrl alt h" />
-  </action>
   <action id="HighlightUsagesInFile">
     <keyboard-shortcut first-keystroke="shift meta f7" />
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
-  <action id="Images.ShowThumbnails" />
   <action id="Infer Type Parameter">
     <keyboard-shortcut first-keystroke="ctrl alt i" />
   </action>
@@ -316,17 +252,6 @@
   </action>
   <action id="Jdbc.OpenTableEditor">
     <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="KeithComplexity">
-    <keyboard-shortcut first-keystroke="shift ctrl k" />
-  </action>
-  <action id="LivePlugin.RunPlugin">
-    <keyboard-shortcut first-keystroke="alt c" second-keystroke="alt e" />
-    <keyboard-shortcut first-keystroke="shift meta l" />
-  </action>
-  <action id="LoadIntoIntellijAction" />
-  <action id="MarkAsOriginalTypeAction">
-    <keyboard-shortcut first-keystroke="alt m" />
   </action>
   <action id="MaximizeToolWindow" />
   <action id="MethodDown">
@@ -348,12 +273,6 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
   </action>
-  <action id="My Action">
-    <keyboard-shortcut first-keystroke="shift ctrl alt h" />
-  </action>
-  <action id="MyUpperCaseAction">
-    <keyboard-shortcut first-keystroke="shift ctrl alt u" />
-  </action>
   <action id="NextDiff">
     <keyboard-shortcut first-keystroke="f7" />
     <keyboard-shortcut first-keystroke="alt down" />
@@ -366,9 +285,6 @@
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="alt 9" />
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
-  </action>
-  <action id="NoCopyPasting">
-    <keyboard-shortcut first-keystroke="shift ctrl alt c" />
   </action>
   <action id="OpenModuleSettings">
     <keyboard-shortcut first-keystroke="f4" />
@@ -384,19 +300,6 @@
     <keyboard-shortcut first-keystroke="alt 8" />
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
-  <action id="ProjectTreeMap-RecalculateTree">
-    <keyboard-shortcut first-keystroke="alt r" />
-  </action>
-  <action id="ProjectTreeMap-Show">
-    <keyboard-shortcut first-keystroke="alt t" />
-  </action>
-  <action id="QuickCommitAction" />
-  <action id="QuickJumpAction">
-    <keyboard-shortcut first-keystroke="ctrl semicolon" />
-  </action>
-  <action id="QuickList.stuff">
-    <keyboard-shortcut first-keystroke="ctrl z" />
-  </action>
   <action id="RailsNavigatePopupAction" />
   <action id="RecentChangedFiles" />
   <action id="RecentChanges" />
@@ -405,12 +308,6 @@
   </action>
   <action id="RemoteHostView.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="RemoveGetters">
-    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
-  </action>
-  <action id="RemoveSetters">
-    <keyboard-shortcut first-keystroke="shift ctrl alt s" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -434,15 +331,8 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt i" />
   </action>
   <action id="SaveAll" />
-  <action id="Scala.RenameJavaToScala" />
   <action id="ScopeHighlight">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
-  </action>
-  <action id="ScratchListenClipboardAction">
-    <keyboard-shortcut first-keystroke="alt c" second-keystroke="alt v" />
-  </action>
-  <action id="SearchInGoogle">
-    <keyboard-shortcut first-keystroke="ctrl alt g" />
   </action>
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="alt f1" />
@@ -463,13 +353,6 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
   </action>
-  <action id="Squint">
-    <keyboard-shortcut first-keystroke="meta alt s" />
-  </action>
-  <action id="StartAutoRevert" />
-  <action id="Subversion.Add">
-    <keyboard-shortcut first-keystroke="ctrl meta a" />
-  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
@@ -485,125 +368,25 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
-  <action id="SymbolizeKeyWords">
-    <keyboard-shortcut first-keystroke="shift ctrl alt 0" />
-  </action>
-  <action id="TabShiftActions.GrowLeft">
-    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
-  </action>
-  <action id="TabShiftActions.GrowRight">
-    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
-  </action>
-  <action id="TabShiftActions.MoveFocusDown">
-    <keyboard-shortcut first-keystroke="shift ctrl alt semicolon" />
-  </action>
-  <action id="TabShiftActions.MoveFocusLeft">
-    <keyboard-shortcut first-keystroke="shift ctrl alt open_bracket" />
-  </action>
-  <action id="TabShiftActions.MoveFocusRight">
-    <keyboard-shortcut first-keystroke="shift ctrl alt close_bracket" />
-  </action>
-  <action id="TabShiftActions.MoveFocusUp">
-    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
-  </action>
-  <action id="TabShiftActions.ShiftDown">
-    <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
-  </action>
-  <action id="TabShiftActions.ShiftLeft">
-    <keyboard-shortcut first-keystroke="ctrl alt open_bracket" />
-  </action>
-  <action id="TabShiftActions.ShiftRight">
-    <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />
-  </action>
-  <action id="TabShiftActions.ShiftUp">
-    <keyboard-shortcut first-keystroke="ctrl alt p" />
-  </action>
-  <action id="TabShiftActions.StretchLeft">
-    <keyboard-shortcut first-keystroke="shift alt open_bracket" />
-  </action>
-  <action id="TabShiftActions.StretchRight">
-    <keyboard-shortcut first-keystroke="shift alt close_bracket" />
-  </action>
-  <action id="TabShiftActions.ToggleMaximizeRestore">
-    <keyboard-shortcut first-keystroke="ctrl alt m" />
-  </action>
   <action id="Threading">
     <keyboard-shortcut first-keystroke="ctrl alt t" />
   </action>
   <action id="ToolWindowsGroup">
     <keyboard-shortcut first-keystroke="alt tab" />
   </action>
-  <action id="TransformDateISOEpoch">
-    <keyboard-shortcut first-keystroke="shift ctrl alt i" />
-  </action>
-  <action id="UnSquint">
-    <keyboard-shortcut first-keystroke="shift meta alt s" />
-  </action>
   <action id="Unwrap">
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
-  </action>
-  <action id="WatchChangeListSize">
-    <keyboard-shortcut first-keystroke="shift alt w" />
-  </action>
-  <action id="WhatIWorkOnStats">
-    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
-  </action>
-  <action id="WordCloud">
-    <keyboard-shortcut first-keystroke="shift ctrl alt t" />
-  </action>
-  <action id="aaa">
-    <keyboard-shortcut first-keystroke="shift alt h" />
-  </action>
-  <action id="another action">
-    <keyboard-shortcut first-keystroke="alt a" second-keystroke="alt b" />
-  </action>
-  <action id="codeminerProjectPopup">
-    <keyboard-shortcut first-keystroke="shift alt a" />
-  </action>
-  <action id="com.andrewbrookins.idea.wrap.WrapAction">
-    <keyboard-shortcut first-keystroke="shift ctrl meta w" />
   </action>
   <action id="context.load">
     <keyboard-shortcut first-keystroke="shift ctrl alt l" />
   </action>
   <action id="context.save" />
-  <action id="darkulation">
-    <keyboard-shortcut first-keystroke="shift ctrl alt d" />
-  </action>
   <action id="grammars.IntroduceRule" />
-  <action id="helloPopupAction">
-    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
-  </action>
-  <action id="helloWordAction">
-    <keyboard-shortcut first-keystroke="shift ctrl alt h" />
-  </action>
-  <action id="hg4idea.QPushAction" />
   <action id="hideOverride">
     <keyboard-shortcut first-keystroke="shift ctrl alt 0" />
   </action>
-  <action id="ideah.repl.actions.LoadHaskellFileInConsoleAction" />
   <action id="minimizeAll">
     <keyboard-shortcut first-keystroke="shift ctrl alt 0" />
-  </action>
-  <action id="miscProjectHistograms">
-    <keyboard-shortcut first-keystroke="shift ctrl h" />
-  </action>
-  <action id="myAction">
-    <keyboard-shortcut first-keystroke="shift alt v" />
-    <keyboard-shortcut first-keystroke="shift alt h" />
-  </action>
-  <action id="myAction _4">
-    <keyboard-shortcut first-keystroke="shift alt v" />
-  </action>
-  <action id="myAction _5">
-    <keyboard-shortcut first-keystroke="shift alt p" />
-  </action>
-  <action id="myAction3">
-    <keyboard-shortcut first-keystroke="shift alt h" />
-    <keyboard-shortcut first-keystroke="shift alt v" />
-  </action>
-  <action id="myAction4">
-    <keyboard-shortcut first-keystroke="shift alt v" />
   </action>
   <action id="nextPsi">
     <keyboard-shortcut first-keystroke="shift ctrl alt k" />
@@ -613,17 +396,11 @@
   <action id="prevPsi">
     <keyboard-shortcut first-keystroke="shift ctrl alt j" />
   </action>
-  <action id="revertStart">
-    <keyboard-shortcut first-keystroke="shift alt g" />
-  </action>
   <action id="showHistorySliderAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt h" />
   </action>
   <action id="showMethodHistoryAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt h" />
-  </action>
-  <action id="showPsiViewerDialog">
-    <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="splitAndClose">
     <keyboard-shortcut first-keystroke="shift ctrl alt y" />
@@ -633,9 +410,6 @@
   </action>
   <action id="splitAndMoveRight">
     <keyboard-shortcut first-keystroke="shift ctrl alt close_bracket" />
-  </action>
-  <action id="symbolizeKeyWords">
-    <keyboard-shortcut first-keystroke="shift ctrl alt 0" />
   </action>
   <action id="tasks.activate" />
   <action id="tasks.goto" />
